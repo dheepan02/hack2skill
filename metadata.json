@@ -1,0 +1,6 @@
+{
+  "name": "ScreenCraft Studio",
+  "description": "Multi-screen application studio with responsive screen previews, live HTML mockup rendering, and hotlinked visual asset management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
